@@ -1,62 +1,56 @@
-<!-- Banner / Animation -->
+<!-- ===================== FULL SCREEN MAIN BANNER ===================== -->
 <p align="center">
-  <img src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="DevOps Animation" width="500](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s)"/>
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"
+       alt="DevOps Engineer Banner"
+       width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Rathod</h1>
-<h3 align="center">DevOps Engineer | AWS & Cloud Enthusiast</h3>
+<h3 align="center">DevOps Engineer | AWS | Cloud | Automation</h3>
 
 ---
 
 ## 👨‍💻 About Me  
 
-- 🔧 DevOps Engineer with hands-on experience in **AWS & Cloud Infrastructure**
-- ☁️ Passionate about **Automation, CI/CD, and Cloud-Native Technologies**
-- 🚀 Skilled in building, deploying, and managing scalable applications
-- 📈 Always learning new tools and best practices in **DevOps & SRE**
+- 🚀 DevOps Engineer with hands-on experience in **AWS & DevOps**
+- ☁️ Passionate about **Cloud Infrastructure, CI/CD & Automation**
+- 🐳 Experienced with **Docker & Kubernetes**
+- 🧠 Focused on **scalable, secure, and reliable systems**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills & Technologies  
 
-### ☁️ Cloud & DevOps
-- **AWS** (EC2, S3, RDS, VPC, IAM, CloudWatch, Route 53, Lambda)
-- **Docker** | **Kubernetes**
-- **Git & GitHub**
-- **CI/CD** (Jenkins, GitHub Actions)
-- **Linux** | **Shell Scripting**
-- **Ansible**
+<div align="left">
 
-### 💻 Programming & Web
-- **Python**
-- **HTML | CSS | PHP**
-- **MySQL**
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,linux,python,html,css,php,mysql,jenkins,ansible&theme=dark" />
+
+</div>
 
 ---
 
-## ⚙️ Tools & Technologies  
+## 📂 What You’ll Find Here  
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,linux,python,html,css,php,mysql,jenkins,ansible" />
+- ☁️ AWS & Cloud Projects  
+- 🐳 Docker & Kubernetes Implementations  
+- 🔄 CI/CD Pipelines & Automation  
+- 📜 Linux & Shell Scripts  
+- 🧩 DevOps Learning Resources  
+
+---
+
+## 📫 Contact Me  
+
+<p align="left">
+  <a href="ar0261469@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href=https://www.linkedin.com/in/abhishek-rathod-4a3698308/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50"/>
+  </a>
 </p>
 
----
-
-## 📂 What You'll Find Here  
-
-- 🚀 DevOps Projects  
-- ☁️ AWS Architecture & Automation  
-- 🐳 Docker & Kubernetes Examples  
-- 🔄 CI/CD Pipelines  
-- 📜 Linux & Shell Scripts  
-
----
-
-## 🤝 Connect With Me  
-
-- 💼 **GitHub:** https://github.com/your-username  
-- 🔗 **LinkedIn:** (Add your LinkedIn link here)  
-
----
-
-⭐ **If you like my work, don’t forget to star the repositories!** ⭐
+<p align="center">
+  ⭐ If you like my work, don’t forget to star ⭐ my repositories!
+</p>
