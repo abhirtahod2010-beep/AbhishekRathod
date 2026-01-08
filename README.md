@@ -1,6 +1,6 @@
 <!-- Banner / Animation -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="DevOps Animation" width="500"/>
+  <img src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="DevOps Animation" width="500](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s)"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Rathod</h1>
